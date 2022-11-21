@@ -3,9 +3,11 @@
 
 <h1 align="center">Hi, I'm Hugo</h1>
 
-<div style="float: left;" >
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagahehugo&layout=compact" alt="lagahehugo" />
-</div>
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lagahehugo&show_icons=true&theme=compact" alt="lagahehugo" />
-</div>
+<table>
+  <thead>
+    <tr>
+      <th scope="col"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagahehugo&layout=compact" alt="lagahehugo" /></th>
+      <th scope="col"><img src="https://github-readme-stats.vercel.app/api?username=lagahehugo&show_icons=true&theme=compact" alt="lagahehugo" /></th>
+    </tr>
+  </thead>
+</table>

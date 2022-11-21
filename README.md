@@ -4,6 +4,6 @@
 <h1 align="center">Hi, I'm Hugo</h1>
 
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagahehugo&layout=compact" alt="lagahehugo" height="140"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lagahehugo&show_icons=true&theme=compact" alt="lagahehugo" height="160" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagahehugo&layout=compact" alt="lagahehugo" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lagahehugo&show_icons=true&theme=compact" alt="lagahehugo" />
 </div>

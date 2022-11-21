@@ -6,5 +6,5 @@
 <div align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagahehugo&layout=compact" alt="lagahehugo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lagahehugo&show_icons=true&theme=compact" alt="lagahehugo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lagahehugo&show_icons=true&theme=compact" alt="lagahehugo" /></p>
 </div>

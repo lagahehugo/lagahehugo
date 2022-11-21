@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Hugo</h1>
 
-<table style="border: 0;">
+<table border="0">
   <thead>
     <tr>
       <th scope="col"><img style="height: 160;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagahehugo&layout=compact" alt="lagahehugo" /></th>

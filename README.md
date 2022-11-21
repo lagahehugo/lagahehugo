@@ -3,8 +3,9 @@
 
 <h1 align="center">Hi, I'm Hugo</h1>
 
-<div align="left">
-<p><img align="left"  style="float: left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagahehugo&layout=compact" alt="lagahehugo" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lagahehugo&show_icons=true&theme=compact" alt="lagahehugo" /></p>
+<div style="float: left;" >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagahehugo&layout=compact" alt="lagahehugo" />
+</div>
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lagahehugo&show_icons=true&theme=compact" alt="lagahehugo" />
 </div>

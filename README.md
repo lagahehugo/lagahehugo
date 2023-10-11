@@ -6,8 +6,8 @@
 <table border="0">
   <thead>
     <tr>
-      <th scope="col"><img style="height: 160;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagahehugo&layout=compact" alt="lagahehugo" /></th>
-      <th scope="col"><img style="height: 160;" src="https://github-readme-stats.vercel.app/api?username=lagahehugo&show_icons=true&theme=compact" alt="lagahehugo" /></th>
+      <th scope="col"><img style="height: 160;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagahehugo&layout=compact&theme=dark" alt="lagahehugo" /></th>
+      <th scope="col"><img style="height: 160;" src="https://github-readme-stats.vercel.app/api?username=lagahehugo&show_icons=true&theme=compact&theme=dark" alt="lagahehugo" /></th>
     </tr>
   </thead>
 </table>
